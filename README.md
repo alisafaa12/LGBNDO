@@ -1,2 +1,4 @@
-# LGBNDO
+# LBGNDO
 Trustworthy and Efficient Routing Algorithm for IoT-FinTech Applications Using Non-Linear Lévy Brownian Generalized Normal Distribution Optimization
+
+The file has divided into to parts, the first part is related to the algorithm's source code for 23 benchmark functions and the second part  is algorithm's source code for RPL problem for trustworthy and efficient routing algorithm. (NLBGNDO) algorithm is proposed to solve the problem of finding an optimal path from source to destination sensor nodes to be used in forwarding FinTech’s related data. We also propose an objective function to be used in maintaining trustworthiness of the selected relay-node candidates by introducing a trust-based friendship mechanism to be measured and applied during each selection process. The formulated model also considering node’s residual energy, experienced response time, and inter-node distance (to figure out density/sparsity ratio of sensor nodes). Results demonstrate that our proposed mechanism could maintain very wise and efficient decisions over the selection period in comparison with other methods.
